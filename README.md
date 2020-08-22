@@ -10,6 +10,7 @@ Android 11 & Xiaomi 10 测试通过
 
 
 
+
 ![setting](doc/setting.png)
 
 ![app](doc/app.png)
