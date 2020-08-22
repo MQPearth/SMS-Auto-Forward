@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">自动转发短信</string>
+    <string name="my_app">自动转发短信</string>
+    <string name="on">开启</string>
+    <string name="off">关闭</string>
+    <string name="openForward">短信转发</string>
+    <string name="forwardStatus">转发状态</string>
+    <string name="host">Host</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="save">保存配置</string>
+    <string name="port">Port</string>
+    <string name="mail_config">邮箱配置</string>
+    <string name="email">Email</string>
+    <string name="checkConfig">检查配置</string>
+</resources>
